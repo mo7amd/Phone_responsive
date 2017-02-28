@@ -5,7 +5,7 @@
 @media (max-width:1920px) {
     .width {
         display: block;
-        width: 100%;
+        width: auto;
         padding: 40px;
         background-color: red;
     }
@@ -14,7 +14,7 @@
 @media (max-width:1080px) {
     .width {
         display: block;
-        width: 100%;
+        width: auto;
         padding: 40px;
         background-color: green;
     }
@@ -23,7 +23,7 @@
 @media (max-width:770px) {
     .width {
         display: block;
-        width: 100%;
+        width: auto;
         padding: 40px;
         background-color: blue;
     }
@@ -32,7 +32,7 @@
 @media (min-width:1921px) {
     .width {
         display: block;
-        width: 100%;
+        width: auto;
         padding: 40px;
         background-color: brown;
     }
